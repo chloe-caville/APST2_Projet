@@ -10,6 +10,10 @@ Il s'agit d'une mission APST2 de Sarra, Zihao.
   $ git clone https://github.com/zeio99/APST2_Projet.git
   $ cd APST2_projet
   ```
+  - [ ] Mises à jour # <**À chaque utilisation**>
+  ```bash
+  $ git pull
+  ```
   
 2. Soumettre
   - [ ] Soumettre la zone de développement
